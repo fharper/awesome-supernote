@@ -20,6 +20,8 @@ _I did not create any of the resources listed below. If you have a special reque
 - [How to safely DIY a Supernote Pen](https://www.reddit.com/r/Supernote/comments/lzl3a1/how_to_safely_diy_a_supernote_pen/)
 
 ### Screensavers
+A screensaver is the image you see when your Supernote is turned off.
+
 - [Audubon Bird Plates](https://github.com/nathanbuchar/audubon-bird-plates-for-supernote): A collection of all 435 illustrations of John James Audubon's [Birds of America](https://www.audubon.org/birds-of-america).
 
 ### Templates
@@ -30,4 +32,5 @@ _I did not create any of the resources listed below. If you have a special reque
 
 ### Tools
 - [Hyperlinked PDF Notebook Generator for E Ink Tablets](https://github.com/jacrify/diaryGenerator): generate custom hyperlinked PDF notebooks for use on eink tablets.
+- [Python script for conversion .note file to text using Google Vision OCR](https://www.reddit.com/r/Supernote/comments/quz3o8/python_script_for_conversion_note_file_to_text/): extract text from note file using Google Vision OCR
 - [Unofficial Python tool for Supernote](https://github.com/jya-dev/supernote-tool): a tool for converting a Supernote's `*.note` file into PDF, PNG or SVG from the command line.
