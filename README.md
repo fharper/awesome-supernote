@@ -7,8 +7,12 @@ _I did not create any of the resources listed below. If you have a special reque
 
 ## Resources
 
+- [Pens](#pens)
 - [Templates](#templates)
 - [Tools](#tools)
+
+### Pens
+- [How to safely DIY a Supernote Pen](https://www.reddit.com/r/Supernote/comments/lzl3a1/how_to_safely_diy_a_supernote_pen/)
 
 ### Templates
 [How to make/add custom templates](https://support.supernote.com/article/15/make-customized-note-template) (Supernote article)
