@@ -27,6 +27,10 @@ A screensaver is the image you see when your Supernote is turned off.
 ### Templates
 [How to make/add custom templates](https://support.supernote.com/article/15/make-customized-note-template) (Supernote article)
 
+#### Specific
+- [Boat Log Sheet](templates/BoatLogSheet.png) by [Michael Muscroft](https://michaelmuscroft.com)
+
+#### Various
 - [Supernote A5X/A6X Templates](https://supernote-templates.mostlyuseful.tech/) (102 templates)
 - [Various Templates](https://www.reddit.com/r/Supernote/comments/o54evn/various_templates/) (dot grid, meeting notes, notes, daily planner)
 
