@@ -7,9 +7,13 @@ _I did not create any of the resources listed below. If you have a special reque
 
 ## Resources
 
+- [Automations](#automations)
 - [Pens](#pens)
 - [Templates](#templates)
 - [Tools](#tools)
+
+### Automations
+- [Automatically uploading the daily NYT crossword to my Ratta Supernote](https://nathanbuchar.com/automatically-uploading-the-nyt-crossword-supernote/)
 
 ### Pens
 - [How to safely DIY a Supernote Pen](https://www.reddit.com/r/Supernote/comments/lzl3a1/how_to_safely_diy_a_supernote_pen/)
