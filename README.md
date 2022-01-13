@@ -29,6 +29,7 @@ A screensaver is the image you see when your Supernote is turned off.
 
 #### Specific
 - [Boat Log Sheet](templates/BoatLogSheet.png) by [Michael Muscroft](https://michaelmuscroft.com)
+- [Daily Planner - Spanish](https://www.reddit.com/r/Supernote/comments/nonng2/more_templates_a6x_toolbar_adjusted_productivity/): a daily productivity planner in Spanish
 
 #### Various
 - [Supernote A5X/A6X Templates](https://supernote-templates.mostlyuseful.tech/) (102 templates)
