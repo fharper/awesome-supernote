@@ -8,13 +8,19 @@ _I did not create any of the resources listed below. If you have a special reque
 ## Resources
 
 - [Automations](#automations)
+- [Icons](#icons)
 - [Pens](#pens)
 - [Screensavers](#screensavers)
+- [Supernote Official](#supernote-official)
 - [Templates](#templates)
 - [Tools](#tools)
 
 ### Automations
 - [Automatically uploading the daily NYT crossword to a Supernote](https://nathanbuchar.com/automatically-uploading-the-nyt-crossword-supernote/)
+
+### Icons
+This section contains `.note` files with drawing and icons you can easily select, copy and paste in your own notes. To use them, you need to download the `.note` file, and add it to your `Note` folder with the cloud you use for syncing your device. You won't be able to send most of them by email because of the file size.
+- [Visual Library](icons/Visual_Library.note) by [pa5t0rd](https://www.reddit.com/u/pa5t0rd/)
 
 ### Pens
 - [How to safely DIY a Supernote Pen](https://www.reddit.com/r/Supernote/comments/lzl3a1/how_to_safely_diy_a_supernote_pen/)
@@ -24,12 +30,16 @@ A screensaver is the image you see when your Supernote is turned off.
 
 - [Audubon Bird Plates](https://github.com/nathanbuchar/audubon-bird-plates-for-supernote): A collection of all 435 illustrations of John James Audubon's [Birds of America](https://www.audubon.org/birds-of-america).
 
+### Supernote Official
+[Early Testers Program](https://www.reddit.com/r/Supernote/comments/mwm3bx/early_testers_program_apply_for_early_testing_of/)
+
 ### Templates
 [How to make/add custom templates](https://support.supernote.com/article/15/make-customized-note-template) (Supernote article)
 
 #### Specific
 - [Boat Log Sheet](templates/BoatLogSheet.png) by [Michael Muscroft](https://michaelmuscroft.com)
 - [Daily Planner - Spanish](https://www.reddit.com/r/Supernote/comments/nonng2/more_templates_a6x_toolbar_adjusted_productivity/): a daily productivity planner in Spanish
+- [NoTeTO](https://github.com/dynobo/noteto): Notetaking Template Tool for the reMarkable tablet, but can be use easily for Supernote
 - [Todo list + Daily Planner](https://www.reddit.com/r/Supernote/comments/o9qpr1/lists_to_does_templates_ax5/): 3 templates around tasks, daily planner and todo
 
 #### Various
