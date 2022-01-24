@@ -39,7 +39,6 @@ A screensaver is the image you see when your Supernote is turned off.
 #### Specific
 - [Boat Log Sheet](templates/BoatLogSheet.png) by [Michael Muscroft](https://michaelmuscroft.com)
 - [Daily Planner - Spanish](https://www.reddit.com/r/Supernote/comments/nonng2/more_templates_a6x_toolbar_adjusted_productivity/): a daily productivity planner in Spanish
-- [NoTeTO](https://github.com/dynobo/noteto): Notetaking Template Tool for the reMarkable tablet, but can be use easily for Supernote
 - [Todo list + Daily Planner](https://www.reddit.com/r/Supernote/comments/o9qpr1/lists_to_does_templates_ax5/): 3 templates around tasks, daily planner and todo
 
 #### Various
@@ -49,6 +48,7 @@ A screensaver is the image you see when your Supernote is turned off.
 ### Tools
 Please note that most tools need some developer skills to be used.
 - [Hyperlinked PDF Notebook Generator for E Ink Tablets](https://github.com/jacrify/diaryGenerator): generate custom hyperlinked PDF notebooks for use on eink tablets.
+- [NoTeTO](https://github.com/dynobo/noteto): Notetaking Template Tool for the reMarkable tablet, but can be use easily for Supernote
 - [Python script for conversion .note file to text using Google Vision OCR](https://www.reddit.com/r/Supernote/comments/quz3o8/python_script_for_conversion_note_file_to_text/): extract text from note file using Google Vision OCR
 - [Python script for desktop note files viewer](https://www.reddit.com/r/Supernote/comments/qrxngb/python_script_for_desktop_note_files_viewer/): generate HTML files so you can easily read your notes in your browser
 - [Supernote local sync app](https://github.com/RohanGautam/supernote-tool): simple terminal app to sync supernote notes to a local directory and convert them to a PDF.
