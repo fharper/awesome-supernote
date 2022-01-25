@@ -14,6 +14,7 @@ _I did not create any of the resources listed below. If you have a special reque
 - [Supernote Official](#supernote-official)
 - [Templates](#templates)
 - [Tools](#tools)
+- [Tutorials](#tutorials)
 
 ### Automations
 - [Automatically uploading the daily NYT crossword to a Supernote](https://nathanbuchar.com/automatically-uploading-the-nyt-crossword-supernote/)
@@ -55,3 +56,6 @@ Please note that most tools need some developer skills to be used.
 - [Python script for desktop note files viewer](https://www.reddit.com/r/Supernote/comments/qrxngb/python_script_for_desktop_note_files_viewer/): generate HTML files so you can easily read your notes in your browser
 - [Supernote local sync app](https://github.com/RohanGautam/supernote-tool): simple terminal app to sync supernote notes to a local directory and convert them to a PDF
 - [Unofficial Python tool for Supernote](https://github.com/jya-dev/supernote-tool): convert Supernote's `*.note` files into PDF, PNG or SVG from the command line
+
+### Tutorials
+- [Supernote A5X & A6X beginner guide - 2022](https://www.youtube.com/watch?v=BcvVz8SbrJk): basic tutorial on keywords, Kindle and more
