@@ -10,6 +10,7 @@ _I did not create any of the resources listed below. If you have a special reque
 - [Automations](#automations)
 - [Icons](#icons)
 - [Pens](#pens)
+- [Reviews](#reviews)
 - [Screensavers](#screensavers)
 - [Supernote Official](#supernote-official)
 - [Templates](#templates)
@@ -25,6 +26,9 @@ This section contains `.note` files with drawing and icons you can easily select
 
 ### Pens
 - [How to safely DIY a Supernote Pen](https://www.reddit.com/r/Supernote/comments/lzl3a1/how_to_safely_diy_a_supernote_pen/)
+
+### Reviews
+- [Supernote A5X Series from My Deep Guide](https://www.youtube.com/playlist?list=PLsSI9-gaSSmiBVXKfp9R-ItMlWKVWBJZS): in deep review of Supernote, new releases au Chauvet and more
 
 ### Screensavers
 A screensaver is the image you see when your Supernote is turned off.
