@@ -41,6 +41,7 @@ A screensaver is the image you see when your Supernote is turned off.
 - [Daily Planner - Spanish](https://www.reddit.com/r/Supernote/comments/nonng2/more_templates_a6x_toolbar_adjusted_productivity/): a daily productivity planner in Spanish
 - [HSK-Hanzi-Worksheet](https://github.com/Hamarel/HSK-Hanzi-Worksheet): a Hanzi writing worksheet using the vocabulary from an Anki deck
 - [Todo list + Daily Planner](https://www.reddit.com/r/Supernote/comments/o9qpr1/lists_to_does_templates_ax5/): 3 templates around tasks, daily planner and todo
+- [Weekly Planner/Note Templates](https://www.reddit.com/r/Supernote/comments/pmqeq7/my_weekly_plannernote_templates/)
 
 #### Various
 - [Supernote A5X/A6X Templates](https://supernote-templates.mostlyuseful.tech/) (102 templates)
