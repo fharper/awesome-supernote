@@ -42,6 +42,7 @@ A screensaver is the image you see when your Supernote is turned off.
 [How to make/add custom templates](https://support.supernote.com/article/15/make-customized-note-template) (Supernote article)
 
 #### Specific
+- [2 columns lined](templates/2columns.jpeg) by Jason Silverthorne
 - [Boat Log Sheet](templates/BoatLogSheet.png) by [Michael Muscroft](https://michaelmuscroft.com)
 - [Daily Planner - Spanish](https://www.reddit.com/r/Supernote/comments/nonng2/more_templates_a6x_toolbar_adjusted_productivity/): a daily productivity planner in Spanish
 - [HSK-Hanzi-Worksheet](https://github.com/Hamarel/HSK-Hanzi-Worksheet): a Hanzi writing worksheet using the vocabulary from an Anki deck
