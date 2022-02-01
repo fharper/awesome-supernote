@@ -41,13 +41,27 @@ A screensaver is the image you see when your Supernote is turned off.
 ### Templates
 [How to make/add custom templates](https://support.supernote.com/article/15/make-customized-note-template) (Supernote article)
 
+#### Covers
+- [Water](templates/Water.png) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
+- [Water with Description](templates/Water_Description.png) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
+
 #### Specific
+- [1:1](templates/One_2_one.png) ([Photoshop](templates/photoshop/one_2_one.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
 - [2 columns lined](templates/2columns.jpeg) by Jason Silverthorne
 - [Boat Log Sheet](templates/BoatLogSheet.png) by [Michael Muscroft](https://michaelmuscroft.com)
+- [Brainstorming Session](templates/Brainstorming_Session.png) ([Photoshop](templates/photoshop/Brainstorming_Session.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
+- [College Rule Black](templates/College_rule_black.png) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
 - [Daily Planner - Spanish](https://www.reddit.com/r/Supernote/comments/nonng2/more_templates_a6x_toolbar_adjusted_productivity/): a daily productivity planner in Spanish
 - [HSK-Hanzi-Worksheet](https://github.com/Hamarel/HSK-Hanzi-Worksheet): a Hanzi writing worksheet using the vocabulary from an Anki deck
+- [Idea Incubator](templates/Idea_Incubator.png) ([Photoshop](templates/photoshop/Idea_Incubator.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
+- [Lined Medium Black](templates/Lined_Medium_Black.png) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
+- [Lined Small Black](templates/Lined_Small_Black.png) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
+- [Meal Planner](templates/Meal_Planner.png) ([Photoshop](templates/photoshop/Meal_Planner.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
+- [Meeting Notes](templates/Meeting_Notes.png) ([Photoshop](templates/photoshop/Meeting_Notes.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
+- [Meeting Page](templates/Meeting_Page.png) ([Photoshop](templates/photoshop/Meeting_Page.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
 - [Todo list + Daily Planner](https://www.reddit.com/r/Supernote/comments/o9qpr1/lists_to_does_templates_ax5/): 3 templates around tasks, daily planner and todo
 - [Weekly Planner/Note Templates](https://www.reddit.com/r/Supernote/comments/pmqeq7/my_weekly_plannernote_templates/)
+- [Writing](templates/Writing.png) ([Photoshop](templates/photoshop/Writing.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
 
 #### Various
 - [Supernote A5X/A6X Templates](https://supernote-templates.mostlyuseful.tech/) (102 templates)
