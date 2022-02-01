@@ -47,7 +47,7 @@ A screensaver is the image you see when your Supernote is turned off.
 
 #### Specific
 - [1:1](templates/One_2_one.png) ([Photoshop](templates/photoshop/one_2_one.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
-- [2 columns lined](templates/2columns.jpeg) by Jason Silverthorne
+- [2 columns lined](templates/2columns.png) by Jason Silverthorne
 - [8 mm, 2 columns](templates/8mm-2columns.png) by [Frédéric Harper](https://fred.dev)
 - [Boat Log Sheet](templates/BoatLogSheet.png) by [Michael Muscroft](https://michaelmuscroft.com)
 - [Brainstorming Session](templates/Brainstorming_Session.png) ([Photoshop](templates/photoshop/Brainstorming_Session.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
