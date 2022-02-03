@@ -8,6 +8,7 @@ _I did not create any of the resources listed below. If you have a special reque
 ## Resources
 
 - [Automations](#automations)
+- [Chauvet](#chauvet)
 - [Icons](#icons)
 - [Pens](#pens)
 - [Reviews](#reviews)
@@ -19,6 +20,9 @@ _I did not create any of the resources listed below. If you have a special reque
 
 ### Automations
 - [Automatically uploading the daily NYT crossword to a Supernote](https://nathanbuchar.com/automatically-uploading-the-nyt-crossword-supernote/)
+
+### Chauvet
+Chauvet is the name of the operating system of Supernote. It is possible for you to [join their beta program](https://www.reddit.com/r/Supernote/comments/mwm3bx/early_testers_program_apply_for_early_testing_of/), to test new features before they are releases to everyone. Be careful though, it may break things.
 
 ### Icons
 This section contains `.note` files with drawing and icons you can easily select, copy and paste in your own notes. To use them, you need to download the `.note` file, and add it to your `Note` folder with the cloud you use for syncing your device. You won't be able to send most of them by email because of the file size.
