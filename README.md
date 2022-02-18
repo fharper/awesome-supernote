@@ -64,6 +64,7 @@ A screensaver is the image you see when your Supernote is turned off.
 - [Meal Planner](templates/Meal_Planner.png) ([Photoshop](templates/photoshop/Meal_Planner.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
 - [Meeting Notes](templates/Meeting_Notes.png) ([Photoshop](templates/photoshop/Meeting_Notes.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
 - [Meeting Page](templates/Meeting_Page.png) ([Photoshop](templates/photoshop/Meeting_Page.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
+- [Simple Todo List with Priority](templates/Simple-Todo-Priority.png)
 - [Todo list + Daily Planner](https://www.reddit.com/r/Supernote/comments/o9qpr1/lists_to_does_templates_ax5/): 3 templates around tasks, daily planner and todo
 - [Weekly Planner/Note Templates](https://www.reddit.com/r/Supernote/comments/pmqeq7/my_weekly_plannernote_templates/)
 - [Writing](templates/Writing.png) ([Photoshop](templates/photoshop/Writing.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
