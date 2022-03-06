@@ -20,7 +20,7 @@ _I did not create any of the resources listed below. If you have a special reque
 - [Tutorials](#tutorials)
 
 ### Automations
-- [Automatically uploading the daily NYT crossword to a Supernote](https://nathanbuchar.com/automatically-uploading-the-nyt-crossword-supernote/)
+- [Automatically uploading the daily NYT crossword to a Supernote](https://nathanbuchar.com/automatically-uploading-the-nyt-crossword-supernote/) ([GitHub Actions version](https://github.com/arichiv/supernote-nytc))
 
 ### Chauvet
 Chauvet is the name of the operating system of Supernote. It is possible for you to [join their beta program](https://www.reddit.com/r/Supernote/comments/mwm3bx/early_testers_program_apply_for_early_testing_of/), to test new features before they are releases to everyone. Be careful though, it may break things.
