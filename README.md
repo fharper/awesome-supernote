@@ -61,6 +61,7 @@ A screensaver is the image you see when your Supernote is turned off.
 - [Brainstorming Session](templates/Brainstorming_Session.png) ([Photoshop](templates/photoshop/Brainstorming_Session.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
 - [College Rule Black](templates/College_rule_black.png) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
 - [Daily Planner - Spanish](https://www.reddit.com/r/Supernote/comments/nonng2/more_templates_a6x_toolbar_adjusted_productivity/): a daily productivity planner in Spanish
+- [Guitar Tabs](templates/GuitarTabs.png): a guitar tabs template by Felix Manuel Jerez
 - [HSK-Hanzi-Worksheet](https://github.com/Hamarel/HSK-Hanzi-Worksheet): a Hanzi writing worksheet using the vocabulary from an Anki deck
 - [Idea Incubator](templates/Idea_Incubator.png) ([Photoshop](templates/photoshop/Idea_Incubator.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
 - [Lined Medium Black](templates/Lined_Medium_Black.png) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
