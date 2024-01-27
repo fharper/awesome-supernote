@@ -42,6 +42,7 @@ This section contains `.note` files with drawing and icons you can easily select
 A screensaver is the image you see when your Supernote is turned off.
 
 - [Audubon Bird Plates](https://github.com/nathanbuchar/audubon-bird-plates-for-supernote): A collection of all 435 illustrations of John James Audubon's [Birds of America](https://www.audubon.org/birds-of-america).
+- [Earnst Haeckel’s Kunstformen der Natur (Artforms of Nature)](https://teev.io/supernote-screensavers-ernst-haeckel-kunstformen-der-natur): A collection of 100 plates from German biologist and illustrator Ernst Haeckel's Kunstformen der Natur (Artforms of Nature) (1904)
 
 ### Supernote Official
 [Early Testers Program](https://www.reddit.com/r/Supernote/comments/mwm3bx/early_testers_program_apply_for_early_testing_of/)
