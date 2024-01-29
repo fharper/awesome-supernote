@@ -1,12 +1,21 @@
-name: Check Markdown links
-
-on: push
+name: Markdown Links Validation
+on: [push, workflow_dispatch]
 
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - uses: gaurav-nelson/github-action-markdown-link-check@v1
+
+    - name: Checkout this repository
+      uses: actions/checkout@master
+
+    - name: Download .markdownlint.json
+      uses: suisei-cn/actions-download-file@v1.4.0
       with:
-        config-file: 'mlc_config.json'
+        url: "https://raw.githubusercontent.com/fharper/gh-configs/main/.markdownlinkcheck.json"
+
+    - name: Validate Links
+      uses: gaurav-nelson/github-action-markdown-link-check@1.0.15
+      with:
+        use-quiet-mode: 'yes'
+        config-file: '.markdownlinkcheck.json'
