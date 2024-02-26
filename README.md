@@ -52,8 +52,6 @@ A screensaver is the image you see when your Supernote is turned off.
 ### Templates
 [How to make/add custom templates](https://support.supernote.com/article/15/make-customized-note-template) (Supernote article)
 
-- [Free Workout Planner](https://teev.io/free-e-ink-templates-supernote)
-
 #### Covers
 - [Water](templates/Water.png) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
 - [Water with Description](templates/Water_Description.png) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
@@ -77,6 +75,7 @@ A screensaver is the image you see when your Supernote is turned off.
 - [Simple Todo List with Priority](templates/Simple-Todo-Priority.png)
 - [Todo list + Daily Planner](https://www.reddit.com/r/Supernote/comments/o9qpr1/lists_to_does_templates_ax5/): 3 templates around tasks, daily planner and todo
 - [Weekly Planner/Note Templates](https://www.reddit.com/r/Supernote/comments/pmqeq7/my_weekly_plannernote_templates/)
+- [Workout Planner](https://teev.io/free-e-ink-templates-supernote)
 - [Writing](templates/Writing.png) ([Photoshop](templates/photoshop/Writing.psd)) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
 
 #### Various
