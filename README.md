@@ -52,6 +52,8 @@ A screensaver is the image you see when your Supernote is turned off.
 ### Templates
 [How to make/add custom templates](https://support.supernote.com/article/15/make-customized-note-template) (Supernote article)
 
+- [Free Workout Planner](https://teev.io/free-e-ink-templates-supernote)
+
 #### Covers
 - [Water](templates/Water.png) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
 - [Water with Description](templates/Water_Description.png) by [Arno Guedj](https://www.reddit.com/user/Arnofromparis)
