@@ -36,7 +36,7 @@ Chauvet is the name of the operating system of Supernote. It is possible for you
 
 This section contains `.note` files with drawing and icons you can easily select, copy and paste in your own notes. To use them, you need to download the `.note` file, and add it to your `Note` folder with the cloud you use for syncing your device. You won't be able to send most of them by email because of the file size.
 
-- [Visual Library](icons/Visual_Library.note) by [pa5t0rd](https://www.reddit.com/u/pa5t0rd/)
+- [Visual Library](icons/Visual_Library.note) ([Dropbox](https://www.dropbox.com/s/s5ggb3lpbeags3v/Visual%20Library.note?dl=0)) by [pa5t0rd](https://www.reddit.com/u/pa5t0rd/)
 
 ### Pens
 
