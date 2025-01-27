@@ -104,10 +104,10 @@ Please note that most tools need some developer skills to be used.
 - [Python script for conversion .note file to text using Google Vision OCR](https://www.reddit.com/r/Supernote/comments/quz3o8/python_script_for_conversion_note_file_to_text/): extract text from note file using Google Vision OCR
 - [Python script for desktop note files viewer](https://www.reddit.com/r/Supernote/comments/qrxngb/python_script_for_desktop_note_files_viewer/): generate HTML files so you can easily read your notes in your browser
 - [sncloud](https://github.com/julianprester/sncloud): unofficial Python API client that allows you to access your Supernote files through the Supernote Cloud.
+- [supernote-web-viewer](https://github.com/cristianvasquez/supernote-web-viewer): display a `*.note` files in the browser
 - [Supernote local sync app](https://github.com/RohanGautam/supernote-tool): simple terminal app to sync supernote notes to a local directory and convert them to a PDF
 - [Unofficial Python tool for Supernote](https://github.com/jya-dev/supernote-tool): convert Supernote's `*.note` files into PDF, PNG or SVG from the command line
 - [Unofficial Obsidian Plugin](https://github.com/philips/obsidian-plugin-supernote?tab=readme-ov-file#supernote-obsidian-plugin): convert notes dropped into an Obsidian vault to PNG to use in markdown.
-- [supernote-web-viewer](https://github.com/cristianvasquez/supernote-web-viewer): display a `*.note` files in the browser
 
 ### Tutorials
 
