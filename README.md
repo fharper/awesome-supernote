@@ -106,6 +106,7 @@ Please note that most tools need some developer skills to be used.
 - [Supernote local sync app](https://github.com/RohanGautam/supernote-tool): simple terminal app to sync supernote notes to a local directory and convert them to a PDF
 - [Unofficial Python tool for Supernote](https://github.com/jya-dev/supernote-tool): convert Supernote's `*.note` files into PDF, PNG or SVG from the command line
 - [Unofficial Obsidian Plugin](https://github.com/philips/obsidian-plugin-supernote?tab=readme-ov-file#supernote-obsidian-plugin): convert notes dropped into an Obsidian vault to PNG to use in markdown.
+- [sncloud](https://github.com/julianprester/sncloud): unofficial Python API client that allows you to access your Supernote files through the Supernote Cloud.
 
 ### Tutorials
 
