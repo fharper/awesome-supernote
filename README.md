@@ -18,6 +18,7 @@ _I did not create any of the resources listed below. If you have a supernote-tld
 - [Supernote Official](#supernote-official)
 - [Templates](#templates)
 - [Tools](#tools)
+- [Sideload Apps](#sideload)
 - [Tutorials](#tutorials)
 
 ### Automations
@@ -111,6 +112,12 @@ Please note that most tools need some developer skills to be used.
 - [Supernote local sync app](https://github.com/RohanGautam/supernote-tool): simple terminal app to sync supernote notes to a local directory and convert them to a PDF
 - [Unofficial Python tool for Supernote](https://github.com/jya-dev/supernote-tool): convert Supernote's `*.note` files into PDF, PNG or SVG from the command line
 - [Unofficial Obsidian Plugin](https://github.com/philips/obsidian-plugin-supernote?tab=readme-ov-file#supernote-obsidian-plugin): convert notes dropped into an Obsidian vault to PNG to use in markdown.
+
+### Sideload Apps
+
+Sideloading apps enables you to run Android apps on your Supernote. See [this tutorial](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/how%20to%20sideload%20supernote.md)
+
+- [Reddit Discussion](https://www.reddit.com/r/Supernote/comments/1b4y578/what_is_everyone_sideloading/): many users have posted their experiences with various Android apps on their Supernote device
 
 ### Tutorials
 
