@@ -67,7 +67,7 @@ Sideloading apps enables you to run Android apps on your Supernote. See [this tu
 
 ### Templates
 
-[How to make/add custom templates](https://support.supernote.com/article/15/make-customized-note-template) (Supernote article)
+[How to make/add custom templates](https://support.supernote.com/faq/how-to-create-a-custom-note-template) (Supernote article)
 
 #### Covers
 
