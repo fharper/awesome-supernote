@@ -113,6 +113,11 @@ Please note that most tools need some developer skills to be used.
 - [Python script for desktop note files viewer](https://www.reddit.com/r/Supernote/comments/qrxngb/python_script_for_desktop_note_files_viewer/): generate HTML files so you can easily read your notes in your browser
 - [sncloud](https://github.com/julianprester/sncloud): unofficial Python API client that allows you to access your Supernote files through the Supernote Cloud.
 - [SNEX](https://github.com/mmujynya/snex): Supernote notebook to [Excalidraw](https://excalidraw.com/) file converter
+- [supernote-apple-note-unifier](https://github.com/liketheduck/supernote-apple-note-unifier): mirror Apple Notes to Supernote devices as .note files
+- [supernote-apple-reminders-sync](https://github.com/liketheduck/supernote-apple-reminders-sync): bidirectional sync between Supernote (MariaDB/Docker) and Apple Reminders on macOS
+- [supernote-koreader-harmonizer](https://github.com/liketheduck/supernote-koreader-harmonizer): sync KOReader highlights to Supernote Digest
+- [supernote-ocr-enhancer](https://github.com/liketheduck/supernote-ocr-enhancer): enhance Supernote .note files with Apple Vision Framework OCR for accurate handwriting recognition with word-level bounding boxes
+- [supernote-private-cloud-docker](https://github.com/liketheduck/supernote-private-cloud-docker): self-hosted Supernote Private Cloud with Docker Compose, HTTPS, and email support
 - [supernote-tldraw](https://github.com/cristianvasquez/supernote-tldraw): display `*.note` files in a canvas
 - [supernote-web-viewer](https://github.com/cristianvasquez/supernote-web-viewer): display a `*.note` files in the browser
 - [Supernote local sync app](https://github.com/RohanGautam/supernote-tool): simple terminal app to sync supernote notes to a local directory and convert them to a PDF
