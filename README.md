@@ -124,6 +124,7 @@ Please note that most tools need some developer skills to be used.
 - [Unofficial Python tool for Supernote](https://github.com/jya-dev/supernote-tool): convert Supernote's `*.note` files into PDF, PNG or SVG from the command line
 - [Unofficial Obsidian Plugin](https://github.com/philips/obsidian-plugin-supernote?tab=readme-ov-file#supernote-obsidian-plugin): convert notes dropped into an Obsidian vault to PNG to use in markdown.
 - [Supernote-pdf](https://github.com/RohanGautam/supernote_pdf) : a CLI for the fastest way to convert `.note` files (and directories of them) into `.pdf` files.
+- [Supernote Sync Joplin Plugin](https://github.com/individual-it/supernote-joplin): a [Joplin plugin](https://joplinapp.org) to sync notes from a [supernote device](https://supernote.com/).
 
 ### Tutorials
 
