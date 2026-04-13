@@ -116,6 +116,7 @@ Please note that most tools need some developer skills to be used.
 - [supernote-apple-note-unifier](https://github.com/liketheduck/supernote-apple-note-unifier): mirror Apple Notes to Supernote devices as .note files
 - [supernote-apple-reminders-sync](https://github.com/liketheduck/supernote-apple-reminders-sync): bidirectional sync between Supernote (MariaDB/Docker) and Apple Reminders on macOS
 - [supernote-koreader-harmonizer](https://github.com/liketheduck/supernote-koreader-harmonizer): sync KOReader highlights to Supernote Digest
+- [supernote-pdf-server](https://github.com/leverarchfile/supernote-pdf-server): automatically convert `.note` files to PDFs and make them available on a self-hosted web server
 - [supernote-ocr-enhancer](https://github.com/liketheduck/supernote-ocr-enhancer): enhance Supernote .note files with Apple Vision Framework OCR for accurate handwriting recognition with word-level bounding boxes
 - [supernote-private-cloud-docker](https://github.com/liketheduck/supernote-private-cloud-docker): self-hosted Supernote Private Cloud with Docker Compose, HTTPS, and email support
 - [supernote-tldraw](https://github.com/cristianvasquez/supernote-tldraw): display `*.note` files in a canvas
