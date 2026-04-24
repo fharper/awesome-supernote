@@ -13,6 +13,7 @@ _I did not create any of the resources listed below. If you have a supernote-tld
 - [Howtos](#howtos)
 - [Icons](#icons)
 - [Pens](#pens)
+- [Plugins](#plugins)
 - [Reviews](#reviews)
 - [Screensavers](#screensavers)
 - [Sideload Apps](#sideload-apps)
@@ -42,6 +43,13 @@ This section contains `.note` files with drawing and icons you can easily select
 ### Pens
 
 - [How to safely DIY a Supernote Pen](https://www.reddit.com/r/Supernote/comments/lzl3a1/how_to_safely_diy_a_supernote_pen/)
+
+### Plugins
+
+Supernote add new capabilities for plugins in this [Reddit post](https://www.reddit.com/r/Supernote_dev/comments/1shgoo5/plugin_preview_build_chauvet_32741_beta_for_manta/).
+
+- [InkGames](https://github.com/wolfsolver/Supernote-InkGames): a collection of paper game generator.
+- [Image insert](https://github.com/wolfsolver/supernote-image-insert-plugin): right now image can be used as background, but not insert into a note. This plugin solve the issue.
 
 ### Reviews
 
@@ -130,11 +138,3 @@ Please note that most tools need some developer skills to be used.
 ### Tutorials
 
 - [Supernote A5X & A6X beginner guide - 2022](https://www.youtube.com/watch?v=BcvVz8SbrJk): basic tutorial on keywords, Kindle and more
-
-
-### Plugin
-
-Supernote add new capabilities for Plugin in this [Reddit post](https://www.reddit.com/r/Supernote_dev/comments/1shgoo5/plugin_preview_build_chauvet_32741_beta_for_manta/).
-
-- [InkGames](https://github.com/wolfsolver/Supernote-InkGames): a collection of paper game generator. 
-- [Image insert](https://github.com/wolfsolver/supernote-image-insert-plugin): right now image can be used as background. But not insert into a note. This plugin solve the issue
