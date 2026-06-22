@@ -115,6 +115,7 @@ Sideloading apps enables you to run Android apps on your Supernote. See [this tu
 Please note that most tools need some developer skills to be used.
 
 - [Hyperlinked PDF Notebook Generator for E Ink Tablets](https://github.com/jacrify/diaryGenerator): generate custom hyperlinked PDF notebooks for use on eink tablets
+- [Inkward](https://inkward.life): syncs your handwritten Supernote notes via Supernote Cloud and gives back a calm daily, weekly, and monthly reflection of your own words; private, EU-hosted, GDPR-first.
 - [NoTeTO](https://github.com/dynobo/noteto): Notetaking Template Tool for the reMarkable tablet, but can be use easily for Supernote
 - [PySN-digest](https://gitlab.com/mmujynya/pysn-digest): the first unofficial library of tools editing vector-points in .mark and .note files
 - [Python script for conversion .note file to text using Google Vision OCR](https://www.reddit.com/r/Supernote/comments/quz3o8/python_script_for_conversion_note_file_to_text/): extract text from note file using Google Vision OCR
