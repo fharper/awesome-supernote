@@ -50,6 +50,7 @@ Supernote add new capabilities for plugins in this [Reddit post](https://www.red
 
 - [InkGames](https://github.com/wolfsolver/Supernote-InkGames): a collection of paper game generator.
 - [Image insert](https://github.com/wolfsolver/supernote-image-insert-plugin): right now image can be used as background, but not insert into a note. This plugin solve the issue.
+- [Make Space](https://github.com/gorlix/sn_make_space): insert extra writing space anywhere on a NOTE page — tap where you need room and lasso everything below it so you can drag it down (or up) yourself, OneNote-style.
 
 ### Reviews
 
