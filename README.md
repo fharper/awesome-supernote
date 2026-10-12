@@ -124,6 +124,7 @@ Please note that most tools need some developer skills to be used.
 - [Python script for desktop note files viewer](https://www.reddit.com/r/Supernote/comments/qrxngb/python_script_for_desktop_note_files_viewer/): generate HTML files so you can easily read your notes in your browser
 - [sncloud](https://github.com/julianprester/sncloud): unofficial Python API client that allows you to access your Supernote files through the Supernote Cloud.
 - [SNEX](https://github.com/mmujynya/snex): Supernote notebook to [Excalidraw](https://excalidraw.com/) file converter
+- [snorg](https://github.com/jdlugosz963/snorg): Supernote organizer that ingests `.note` files into a plaintext, machine-readable, VCS-friendly archive for later retrieval, analysis and export.
 - [supernote-apple-note-unifier](https://github.com/liketheduck/supernote-apple-note-unifier): mirror Apple Notes to Supernote devices as .note files
 - [supernote-apple-reminders-sync](https://github.com/liketheduck/supernote-apple-reminders-sync): bidirectional sync between Supernote (MariaDB/Docker) and Apple Reminders on macOS
 - [supernote-koreader-harmonizer](https://github.com/liketheduck/supernote-koreader-harmonizer): sync KOReader highlights to Supernote Digest
