@@ -52,6 +52,7 @@ Supernote add new capabilities for plugins in this [Reddit post](https://www.red
 - [Image insert](https://github.com/wolfsolver/supernote-image-insert-plugin): right now image can be used as background, but not insert into a note. This plugin solve the issue.
 - [Make Space](https://github.com/gorlix/sn_make_space): insert extra writing space anywhere on a NOTE page — tap where you need room and lasso everything below it so you can drag it down (or up) yourself, OneNote-style.
 - [TCP Tunnel](https://github.com/gorlix/sn-tcp-tunnel): route Screen Mirroring and Browse & Access over USB instead of Wi-Fi — plug in the cable, tap start, and get a fast, lag-free tunnel that works even on locked-down networks (schools, offices, hotels).
+- [Ink2Pic](https://github.com/martonpaulo/ink2pic): Write a word by hand, lasso it, and insert a matching picture from Openclipart or Wikimedia Commons. Keyless, no phone needed.
 
 ### Reviews
 
