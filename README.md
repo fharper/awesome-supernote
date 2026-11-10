@@ -48,6 +48,7 @@ This section contains `.note` files with drawing and icons you can easily select
 
 Supernote add new capabilities for plugins in this [Reddit post](https://www.reddit.com/r/Supernote_dev/comments/1shgoo5/plugin_preview_build_chauvet_32741_beta_for_manta/).
 
+- [Ink2Pic](https://github.com/martonpaulo/ink2pic): Write a word by hand, lasso it, and insert a matching picture from Openclipart or Wikimedia Commons. Keyless, no phone needed.
 - [InkGames](https://github.com/wolfsolver/Supernote-InkGames): a collection of paper game generator.
 - [Image insert](https://github.com/wolfsolver/supernote-image-insert-plugin): right now image can be used as background, but not insert into a note. This plugin solve the issue.
 - [Make Space](https://github.com/gorlix/sn_make_space): insert extra writing space anywhere on a NOTE page — tap where you need room and lasso everything below it so you can drag it down (or up) yourself, OneNote-style.
