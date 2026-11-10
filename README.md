@@ -65,6 +65,7 @@ A screensaver is the image you see when your Supernote is turned off.
 - [Audubon Bird Plates](https://github.com/nathanbuchar/audubon-bird-plates-for-supernote): A collection of all 435 illustrations of John James Audubon's [Birds of America](https://www.audubon.org/birds-of-america).
 - [B&W Cropped Audubon Bird Plates](https://teev.io/supernote-screensavers-john-j-audubons-birds-of-america): A growing collection of hand formatted plates from John James Audubon's [Birds of America](https://www.audubon.org/birds-of-america) collection. Each screensaver has been cropped to 1404x1872px and converted to black and white.
 - [Earnst Haeckel’s Kunstformen der Natur (Artforms of Nature)](https://teev.io/supernote-screensavers-ernst-haeckel-kunstformen-der-natur): A collection of 100 plates from German biologist and illustrator Ernst Haeckel's Kunstformen der Natur (Artforms of Nature) (1904)
+- [einktools Supernote screensaver maker](https://einktools.com/supernote-screensaver): A free browser tool that crops a photo to the Nomad / A5 X / A6 X size (1404×1872) or the Manta (1920×2560), previews it in e-ink grays and exports a PNG. Runs locally, nothing is uploaded.
 
 ### Sideload Apps
 
