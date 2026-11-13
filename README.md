@@ -72,6 +72,34 @@ A screensaver is the image you see when your Supernote is turned off.
 Sideloading apps enables you to run Android apps on your Supernote. See [this tutorial](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/how%20to%20sideload%20supernote.md)
 
 - [Reddit Discussion](https://www.reddit.com/r/Supernote/comments/1b4y578/what_is_everyone_sideloading/): many users have posted their experiences with various Android apps on their Supernote device
+- [adbwifi-toggle](https://github.com/afluffywaffle/adbwifi-toggle): turn Wireless Debugging (adb over Wi-Fi) on and off from the launcher, no root.
+- [AnimInk](https://github.com/YoramDevGH/AnimInk): offline frame-by-frame animation for the Nomad.
+- [Calendar for Supernote](https://ideentreibstoff.de/calendar.php): a calendar that syncs CalDAV calendars and tasks and turns handwriting into events (beta).
+- [Cards](https://github.com/mrgrtapk/Cards): a flashcard app for e-ink.
+- [Claude Notes](https://github.com/JeremieSD/supernote-ocr-claude): ask Claude about a handwritten `.note` file, on the Manta (needs your own API key).
+- [Drive Sync](https://www.seadowg.com/docs/drive-sync.html): move files on and off the Supernote with a USB flash drive, so Wi-Fi can stay off (paid, on Gumroad).
+- [Inkread](https://github.com/j-raghavan/inkread): an e-ink reader with handwritten annotations.
+- [KakitoSN](https://github.com/Karino2DIYApp/KakitoSN): kanji writing practice.
+- [KOReader App Store](https://omer-faruq.github.io/appstore.koplugin/): install KOReader plugins from inside KOReader.
+- [LinkBridge](https://github.com/adiuv0/LinkBridge): send a web link from an Android phone to the open note over Bluetooth, no Wi-Fi needed.
+- [MagnaSketchSN](https://github.com/Karino2DIYApp/MagnaSketchSN): a toy magnetic drawing board.
+- [Meetings](https://github.com/j-raghavan/sn-meeting): record, transcribe and summarise meetings on the Supernote.
+- [MonoPaint](https://github.com/mpdairy/monopaint): a painting app with a fast e-ink pen, layers and wet media.
+- [NYT Games for Supernote](https://github.com/ellinglien/supernote-nyt-games): the NYT Crossword, Mini, Wordle, Connections, Spelling Bee and Strands, tuned for greyscale.
+- [Pencil Games](https://zenoxgames.itch.io/pencil-games): Sudoku, Word Search and Word Hunt, written by hand like a puzzle book (paid, on itch.io).
+- [PngNoteSN](https://github.com/Karino2DIYApp/PngNoteSN): a minimal handwritten notebook that saves pages as PNG files in plain folders.
+- [ReadAssist](https://github.com/James-Zhu-CA/ReadAssist): an AI reading assistant for e-ink. A [fork](https://github.com/lujun723-win/supernote-read-ai) adds vocabulary hints.
+- [Slate](https://github.com/marc-korte/df-writer): a distraction-free Markdown writer for the Manta and a Bluetooth keyboard.
+- [sn-reader](https://github.com/rephlex00/sn-reader): a lightweight e-reader.
+- [SpareNotes](https://github.com/m4nespin/sparenotes): automatic one-way backups of Supernote folders to Proton Drive.
+- [Sudoku E-ink](https://github.com/ktacrack/SudokuEink): Sudoku made for e-ink.
+- [Superdood](https://github.com/ellinglien/superdood): a sketchbook journal with a brush engine and live drawing together.
+- [SuperDuper](https://github.com/elwestcroft/superduper): an infinite-canvas note app for the Nomad.
+- [Supernote Linker](https://github.com/ryan-andrew/SupernoteLinker): add links to your Atelier drawings from within your notes.
+- [Supernote Tools](https://github.com/qiaodenghui/Supernote-Tools): install handwriting-recognition language packs offline.
+- [Supernote Translate](https://github.com/tim-oh-thee-97/supernote-translate-release): a translation app for the Nomad.
+- [SupernoteReader](https://github.com/mihaiCroitoru/SupernoteReader): a minimal, local EPUB and PDF reader for the Nomad.
+- [Tom's Diary](https://github.com/poita66/toms-diary): write to a local AI by hand and watch it write back (proof of concept).
 
 ### Supernote Official
 
