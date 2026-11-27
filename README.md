@@ -72,6 +72,7 @@ A screensaver is the image you see when your Supernote is turned off.
 Sideloading apps enables you to run Android apps on your Supernote. See [this tutorial](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/how%20to%20sideload%20supernote.md)
 
 - [Reddit Discussion](https://www.reddit.com/r/Supernote/comments/1b4y578/what_is_everyone_sideloading/): many users have posted their experiences with various Android apps on their Supernote device
+- [Supernote OPDS Sync](https://github.com/FazalAAli/supernote-opds-sync): download the books from an OPDS catalog (Calibre-Web, Kavita, Komga, Bindery, etc.) into your Supernote's library
 
 ### Supernote Official
 
